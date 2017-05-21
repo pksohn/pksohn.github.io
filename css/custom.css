@@ -1,7 +1,36 @@
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 ul {
   list-style-type: none;
 }
 
 li {
   margin-bottom: 2px;
+}
+
+
+/* Body
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+body {
+  font-size: 1.5em;
+  /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Lora";
+  color: #222;
+}
+
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0FA0CE;
 }
