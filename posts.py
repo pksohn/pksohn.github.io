@@ -49,6 +49,7 @@ def render_markdown(path):
         html_name = '{}.html'.format(name)
         new_path = os.path.join(fp, html_name)
         the_markdown = mf.read()
+        print('Rendering {} to {}'.format(fn, html_name))
 
     md = markdown.Markdown(extensions=['meta'])
 
