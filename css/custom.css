@@ -34,3 +34,14 @@ a {
 a:hover {
   color: #0FA0CE;
 }
+
+
+/* Phones
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media only screen and (max-device-width: 480px) {
+  a {
+    color: #222;
+    text-decoration: underline;
+  }
+}
