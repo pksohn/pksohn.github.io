@@ -1,5 +1,5 @@
 ##### Latest
-* [What I learned at PyCon 2017]("posts/pycon17.html")
+* [What I learned at PyCon 2017](posts/pycon17.html)
 
 ##### Projects
 * I contribute to the [Urban Data Science Toolkit](http://github.com/udst)
@@ -11,7 +11,7 @@
 
 ##### About Me
 I love writing software to try and make the world a better, more livable place.
-I try to write clean, reusable, well-tested code, and rely heavily on the 
+I try to write clean, reusable, well-tested code, and rely heavily on the
 [numerical Python stack](https://www.numfocus.org/) and the Python open source
 community at large. I studied City Planning and Transportation Engineering
 at UC-Berkeley, and currently live in Oakland, CA.
