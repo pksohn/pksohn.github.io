@@ -3,49 +3,57 @@
 
 <head>
 
-    <!-- Basic Page Needs
+  <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <meta charset="utf-8">
-    <meta name="author" content="Paul Sohn">
-    <title>{% block title %}{% endblock %}</title>
+  <meta charset="utf-8">
+  <meta name="author" content="Paul Sohn">
+  <title>{% block title %}{% endblock %}</title>
 
-    <!-- Mobile Specific Metas
+  <!-- Mobile Specific Metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- FONT
+  <!-- FONT
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 
-    <!-- CSS
+  <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="../css/normalize.css">
-    <link rel="stylesheet" href="../css/skeleton.css">
-    <link rel="stylesheet" href="../css/custom.css">
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/skeleton.css">
+  <link rel="stylesheet" href="../css/custom.css">
 
-    <!-- Favicon
+  <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="images/favicon.png">
 
-    <!-- Google Analytics
+  <!-- Google Analytics
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <script>
-      !function(a,b,c,d,e,f,g){a.GoogleAnalyticsObject=e,a[e]=a[e]||function(){
-      (a[e].q=a[e].q||[]).push(arguments)},a[e].l=1*new Date,f=b.createElement(
-      c),g=b.getElementsByTagName(c)[0],f.async=1,f.src=d,g.parentNode.
-      insertBefore(f,g)}(window,document,"script",
-      "https://www.google-analytics.com/analytics.js","ga"),
-      ga("create","UA-99759224-1","auto"),ga("send","pageview");
-    </script>
+  <script>
+    ! function(a, b, c, d, e, f, g) {
+      a.GoogleAnalyticsObject = e, a[e] = a[e] || function() {
+        (a[e].q = a[e].q || []).push(arguments)
+      }, a[e].l = 1 * new Date, f = b.createElement(
+        c), g = b.getElementsByTagName(c)[0], f.async = 1, f.src = d, g.parentNode.
+      insertBefore(f, g)
+    }(window, document, "script",
+      "https://www.google-analytics.com/analytics.js", "ga"),
+    ga("create", "UA-99759224-1", "auto"), ga("send", "pageview");
+  </script>
 
 </head>
 
 <body>
-<div class="container" style="margin-top: 5%">
+  <div class="container" style="margin-top: 2%">
     <div class="eight columns offset-by-two">
-        {% block content %}{% endblock %}
+      <a href="../index.html">Home</a>
     </div>
-</div>
+  </div>
+  <div class="container" style="margin-top: 2%">
+    <div class="eight columns offset-by-two">
+      {% block content %}{% endblock %}
+    </div>
+  </div>
 
 </body>
 
