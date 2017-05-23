@@ -2,11 +2,12 @@
 * [Highlights from PyCon 2017](posts/pycon17.html)
 
 ##### Projects
-* I contribute to the [Urban Data Science Toolkit](http://github.com/udst)
-* [Working with County Business Patterns data from the Census Bureau](https://github.com/pksohn/county-business-patterns)
-* [Implementing geostatistical predictions in Numpy](https://github.com/pksohn/geostatistics)
-* [Classifying Census data with sklearn](https://github.com/pksohn/tenure)
-* [Clustering tweets with sklearn](https://github.com/pksohn/tweet-clustering)
+I contribute to the [Urban Data Science Toolkit](http://github.com/udst).
+
+* [Tools for analyzing County Business Patterns data](https://github.com/pksohn/county-business-patterns)
+* [Implementation of geostatistical predictions in Numpy](https://github.com/pksohn/geostatistics)
+* [Comparison of sklearn classification algorithms for Census data](https://github.com/pksohn/tenure)
+* [Analysis of tweet clusters with sklearn](https://github.com/pksohn/tweet-clustering)
 * [A little scraper for the NPR best books list](https://github.com/pksohn/npr_books)
 
 ##### About Me
