@@ -22,6 +22,7 @@ able to see this in person. This was a fun and clearly presented history
 of some of the design decisions and algorithms underlying the Python dictionary,
 and the various ways they've been able to improve its performance over time.
 Dictionaries in 3.6 are awesome. Sound like a fun talk? It actually really is.
+([Slides here, in Sphinx doc format](https://dl.dropboxusercontent.com/u/3967849/compdict/_build/html/index.html)).
 
 Andrew Baker live-deployed a Flask "Hello World" app in five different ways in
 [this talk](https://www.youtube.com/watch?v=vGphzPLemZE), and gave pros and cons of each method. Impressive to watch
@@ -80,7 +81,12 @@ Some talks:
 * [Readability Counts by Trey Hunner](https://youtu.be/knMg6G9_XCg)
 * [Jukka Lehtosalo, David Fisher on Static Types](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
 * [The Dictionary Even Mightier by Brandon Rhodes](https://www.youtube.com/watch?v=66P5FMkWoVU)
-* [Kelsey Hightower's Keynote](https://www.youtube.com/watch?v=u_iAXzy3xBA)
+
+The keynotes I missed:
+
+* [Kelsey Hightower](https://www.youtube.com/watch?v=u_iAXzy3xBA)
+* [Lisa Guo, Hui Ding](https://www.youtube.com/watch?v=66XoCk79kjM)
+* [Katy Huff](https://www.youtube.com/watch?v=kaGS4YXwciQ)
 
 And more tutorials that I could ever catch up with, including:
 
