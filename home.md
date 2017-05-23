@@ -1,5 +1,5 @@
 ##### Latest
-* [What I learned at PyCon 2017](posts/pycon17.html)
+* [Highlights from PyCon 2017](posts/pycon17.html)
 
 ##### Projects
 * I contribute to the [Urban Data Science Toolkit](http://github.com/udst)

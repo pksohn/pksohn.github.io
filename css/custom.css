@@ -35,6 +35,17 @@ a:hover {
   color: #0FA0CE;
 }
 
+.blog img {
+  width: 100%;
+}
+
+.blog ul {
+  list-style-type: circle;
+}
+
+.blog a {
+  text-decoration: underline;
+}
 
 /* Phones
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
