@@ -59,7 +59,7 @@ available in Python today, with a special overview of Altair and Vega-Lite,
 a couple of great tools that we're using at UrbanSim.
 * James Saryerwinnie taught me a few new testing tricks/strategies in
 [his talk](https://www.youtube.com/watch?v=jmsk1QZQEvQ). Excited to try out
-property-based testing with [hypothesis](https://github.com/HypothesisWorks/hypothesis-python).
+[hypothesis](https://github.com/HypothesisWorks/hypothesis-python) for property-based testing.
 * Sofia Heisler went over how to [make sure your Pandas code is fast](https://www.youtube.com/watch?v=HN5d490_KKk).
 Thankfully we're already doing all of this at UrbanSim. ([Slides here.](https://github.com/sversh/pycon2017-optimizing-pandas))
 * A [helpful review](https://www.youtube.com/watch?v=7m5JA3XaZ4k)

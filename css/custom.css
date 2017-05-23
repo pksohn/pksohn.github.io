@@ -9,6 +9,11 @@ li {
   margin-bottom: 2px;
 }
 
+.homepage h5 {
+  font-size: 2.0rem;
+  margin-bottom: 2px;
+}
+
 
 /* Body
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -28,7 +33,7 @@ body {
 
 a {
   color: #222;
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 
 a:hover {
@@ -43,12 +48,9 @@ a:hover {
   list-style-type: circle;
 }
 
-.blog a {
-  text-decoration: underline;
-}
-
 /* Phones
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*Needed this when I didn't have links underlined*/
 
 @media only screen and (max-device-width: 480px) {
   a {
