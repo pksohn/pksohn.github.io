@@ -12,6 +12,7 @@ I contribute to the [Urban Data Science Toolkit](http://github.com/udst).
 - [A third crossing](thirdcrossing.org) of the San Francisco Bay
 
 ##### For fun
+- [Google Streetview game](https://github.com/pksohn/election) for guessing election results (work in progress)
 - [A little scraper](https://github.com/pksohn/npr_books) for the NPR best books list
 
 #### About Me
