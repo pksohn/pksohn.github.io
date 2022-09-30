@@ -1,23 +1,22 @@
-#### Latest
-- [Highlights from PyCon 2017](posts/pycon17.html)
+#### Books for 2022
 
-#### Work
-I contribute to the [Urban Data Science Toolkit](http://github.com/udst).
+My new year's resolution this year was to read 20 books.
 
-##### From grad school
-- [Tools](https://github.com/pksohn/county-business-patterns) for analyzing County Business Patterns data
-- [Implementation](https://github.com/pksohn/geostatistics) of geostatistical predictions in Numpy
-- [Comparison](https://github.com/pksohn/tenure) of sklearn classification algorithms for Census data
-- [Analysis](https://github.com/pksohn/tweet-clustering) of tweet clusters with sklearn
-- [A third crossing](thirdcrossing.org) of the San Francisco Bay
+##### Read so far:
 
-##### For fun
-- [Google Streetview game](https://github.com/pksohn/election) for guessing election results (work in progress)
-- [A little scraper](https://github.com/pksohn/npr_books) for the NPR best books list
+- Cloud Cuckoo Land by Anthony Doerr (Sep 27)
+- The Day the World Came to Town: 9/11 in Gander, Newfoundland by Jim DeFede (Sep 13)
+- Malibu Rising by Taylor Jenkins Reid (Aug 23)
+- Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian (Aug 16)
+- True Biz by Sara Nović (Jul 29)
+- The Lincoln Highway by Amor Towles (Jul 25)
+- Accidentally Engaged by Farah Heron (May 25)
+- Now Say This: The Right Words to Solve Every Parenting Dilemma by Heather Turgeon (Apr 28)
+- High Performance Browser Networking by Ilya Grigorik (Apr 21)
+- The Searcher by Tana French (Apr 04)
+- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier (Mar 23)
+- Project Hail Mary by Andy Weir (Mar 10)
+- Grasp: The Science Transforming How We Learn by Luke Yoquinto and Sanjay Sarma (Feb 28)
+- Our Country Friends by Gary Shteyngart (Jan 19)
+- Crying in H Mart by Michelle Zauner (Jan 29)
 
-#### About Me
-I love writing software to try and make the world a better, more livable place.
-I aim to write clean, reusable, well-tested code, and rely heavily on the
-[numerical Python stack](https://www.numfocus.org/) and the Python open source
-community at large. I studied City Planning and Transportation Engineering
-at UC-Berkeley, and currently live in Oakland, CA.

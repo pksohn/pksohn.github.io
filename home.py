@@ -1,5 +1,6 @@
 import jinja2
 from jinja2 import FileSystemLoader
+from jinja2.utils import markupsafe 
 import markdown
 import os
 import argparse
@@ -31,7 +32,7 @@ def render_markdown():
 
     env = jinja2.Environment()
     env.loader = FileSystemLoader('./templates')
-    env.filters['markdown'] = lambda text: jinja2.Markup(md.convert(text))
+    env.filters['markdown'] = lambda text: markupsafe.Markup(md.convert(text))
     env.globals['get_title'] = lambda: md.Meta['title'][0]
     env.trim_blocks = True
     env.lstrip_blocks = True
