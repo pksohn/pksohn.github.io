@@ -4,6 +4,7 @@ My new year's resolution this year was to read 20 books.
 
 ##### Read so far:
 
+- 10/05: [Smart Brevity](https://g.co/kgs/rp97J3)
 - 09/27: [Cloud Cuckoo Land](https://g.co/kgs/R5WCGs)
 - 09/13: [The Day the World Came to Town](https://g.co/kgs/R5seDZ)
 - 08/23: [Malibu Rising](https://g.co/kgs/LyY3AW)
