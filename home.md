@@ -20,3 +20,10 @@ My new year's resolution this year was to read 20 books.
 - 02/28: [Grasp](https://g.co/kgs/MRzgKy)
 - 01/29: [Crying in H Mart](https://g.co/kgs/7NrKs5)
 - 01/19: [Our Country Friends](https://g.co/kgs/WLi8Xk)
+
+##### On my list:
+
+- [Name Of The Wind](https://g.co/kgs/5C4Zmj)
+- [Code](https://g.co/kgs/dQUy5g) (a re-read of the new edition)
+- [The Vanishing Half](https://g.co/kgs/ZG9BUp)
+- [The Code Breaker](https://g.co/kgs/7fStBp)
